@@ -1,13 +1,15 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 
+// creates Team Profile Generator
 const createTeamPage = require("./src/template.js");
 
+// each profile
 const Manager = require("./lib/Manager");
 const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
 
-// created an array for team portfolio
+// created an array for team profile
 const staffDataArray = [];
 
 // manager first, then manager can add other employees

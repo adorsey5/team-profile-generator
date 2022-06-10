@@ -1,5 +1,6 @@
 const Intern = require("../lib/Intern");
 
+// creates intern and tests
 test("creates an Intern object: name, id, email, and school", () => {
   const intern = new Intern("John", 777, "testname@test.com", "Univ. of Miami");
 

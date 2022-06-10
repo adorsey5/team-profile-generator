@@ -24,7 +24,7 @@ const generateEngineer = function (engineer) {
           <div class="card h-100 shadow-lg p-3 mb-5 bg-white rounded">
               <div class="card-header bg-primary text-white">
                   <h3>${engineer.name}</h3>
-                  <h4>Engineer</h4><i class="material-icons-outlined">laptop</i>
+                  <h4>Engineer</h4><i class="material-icons">laptop</i>
               </div>
               <div class="card-body">
                   <p class="id">ID: ${engineer.id}</p>

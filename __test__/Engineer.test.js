@@ -1,5 +1,6 @@
 const Engineer = require("../lib/Engineer");
 
+// creates engineer and tests
 test("creates an Engineer object: name, id, email, and GitHub username", () => {
   const engineer = new Engineer(
     "John",

@@ -1,5 +1,6 @@
 const Employee = require("../lib/Employee");
 
+// creates employee and tests
 test("creates an employee object:name, id, and email", () => {
   const employee = new Employee("John", 777, "testname@test.com");
 
