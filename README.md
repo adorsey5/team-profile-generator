@@ -37,17 +37,11 @@ Built a Node.js command-line application that takes in information about employe
 
 true
 
-## :link: Link to Webpage
-
-Click the following link to visit the webpage:
-
-[A live link to the webpage](https://adorsey5.github.io/team-profile-generator/)
-
 ### Screenshot
 
 ![Screenshot](./Screenshot1.png)
 
-### Walkthrough Videos
+### Walkthrough Video
 
 [Tutorial](https://drive.google.com/file/d/1TcPolbosego1NLI8pTq4RBRD0Dm1bC5g/view)<br />
 
