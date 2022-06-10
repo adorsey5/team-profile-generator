@@ -28,9 +28,10 @@ Built a Node.js command-line application that takes in information about employe
 
 ## Installation
 
+1. To run tests `npm run test`
 1. Npm i
-2. run node index.js
-3. Open index.html
+1. run node index.js
+1. Open index.html
 
 ## Contribution
 
@@ -48,7 +49,7 @@ Click the following link to visit the webpage:
 
 ### Walkthrough Videos
 
-[Tutorial]https://drive.google.com/file/d/1tAXxofTujnhfIDynvzewlUbdtXpz3vsU/view<br />
+[Tutorial](https://drive.google.com/file/d/1TcPolbosego1NLI8pTq4RBRD0Dm1bC5g/view)<br />
 
 ### URL of the GitHub repository:
 
